@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Olajide 👋
+
+I am a problem solver, software engineer with focus on turning web ideas into visual reality as a frontend engineer.
+
+Looking to join a team of highly skilled and passion-driven engineers while contributing to a meaningful project.
+
+While not reading, I invest other quality leisure moments watching sports especially basketball. A lover of dogs (yet to own one)
+
+- 🔭 I currently built my website - https://olajideomotola-1a.netlify.app/
+
+- 📫 How to reach me: twitter - https://twitter.com/Jide_Omotola
+                      Codepen - https://codepen.io/Jydoskey/
+                      
+- 👯 I’m looking to collaborate on Vuejs projects
 
 <!--
 **jydoskey/jydoskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
