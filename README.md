@@ -1,4 +1,4 @@
-### Hi, I'm Olajide 👋
+<h1 style="color: blue;">Hi, I'm Olajide</h1>👋
 
 I am a problem solver, software engineer with focus on turning web ideas into visual reality as a frontend engineer.
 
