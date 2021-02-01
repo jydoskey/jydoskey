@@ -6,7 +6,7 @@ Looking to join a team of highly skilled and passion-driven engineers while cont
 
 While not reading, I invest other quality leisure moments watching sports especially basketball. A lover of dogs (yet to own one)
 
-- 🔭&nbsp; I currently built my website - <a href="https://olajideomotola-1a.netlify.app/" target="_blank">olajideomotola</a>👋
+- 🔭&nbsp; I currently built my website - <a href="https://olajideomotola-1a.netlify.app/" target="_blank">olajideomotola</a>🤘
 
 - 📫&nbsp; How to reach me: twitter - <a href="https://twitter.com/Jide_Omotola" target="_blank">Jide_Omotola</a>
                       Codepen - <a href="https://codepen.io/Jydoskey/" target="_blank">Jydoskey</a>
