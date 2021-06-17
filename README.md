@@ -1,8 +1,6 @@
 ### <h1>Hi, I'm Olajide👋</h1>
 
-I am a problem solver, software engineer with focus on turning web ideas into visual reality as a frontend engineer.
-
-Looking to join a team of highly skilled and passion-driven engineers while contributing to a meaningful project.
+I am a Frontend Developer passionate about turning web ideas into visual reality, while turning ideas into reality.
 
 While not reading, I invest other quality leisure moments watching sports especially basketball. A lover of dogs (yet to own one)
 
