@@ -2,7 +2,7 @@
 
 I am a Frontend Developer passionate about turning web ideas into visual reality, while turning ideas into reality.
 
-While not reading, I invest other quality leisure moments watching sports especially basketball. A lover of dogs (yet to own one)
+While not reading, I invest other quality leisure moments watching sports
 
 - 🔭&nbsp; My portfolio - <a href="https://olajideomotola-1a.netlify.app/" target="_blank">olajideomotola</a>🤘
 
