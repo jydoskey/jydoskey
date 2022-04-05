@@ -1,6 +1,6 @@
 ### <h1>Hi, I'm Olajide👋</h1>
 
-I am a Frontend Developer passionate about turning web ideas into visual reality.
+I am a Frontend Developer focused on turning web ideas into visual reality.
 
 While not studying, I invest other quality leisure moments watching sports.
 
