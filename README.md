@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Olajide👋</h1>
+### <h1 style="color:#0398fc;">Hello, I'm Olajide 👋🏾</h1>
 
 I am a Frontend Developer focused on turning web ideas into visual reality.
 
