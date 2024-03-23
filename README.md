@@ -4,8 +4,6 @@ I am a Frontend Developer focused on turning web ideas into visual reality.
 
 While not studying, I invest other quality leisure moments watching sports.
 
-- 🔭&nbsp; My portfolio - <a href="https://olajideomotola-1a.netlify.app/" target="_blank">OlajideOmotola</a> 😊
-
 - 📫&nbsp; How to reach me: twitter - <a href="https://twitter.com/____jide" target="_blank">Olajide</a>
                       Codepen - <a href="https://codepen.io/Jydoskey/" target="_blank">Jydoskey</a>
                       
